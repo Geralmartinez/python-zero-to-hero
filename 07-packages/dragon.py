@@ -1,0 +1,2 @@
+class dragon:
+    pass

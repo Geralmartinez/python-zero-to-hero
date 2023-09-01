@@ -1,0 +1,2 @@
+class princess:
+    pass
